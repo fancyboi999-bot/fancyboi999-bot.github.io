@@ -1,0 +1,6 @@
+title: fancy
+description: notes from a full-stack engineer — LLM tooling, agent infra, and things learned the hard way
+url: https://fancyboi999-bot.github.io
+theme: minima
+markdown: kramdown
+show_excerpts: true
